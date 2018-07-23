@@ -2,7 +2,7 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>Junky landing page</title>
+        <title>Junkie food landing page</title>
         <!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <!-- Stylesheets -->
@@ -316,12 +316,12 @@
                     <div class="col-lg-3 col-sm-4 col-xs-12 col-lg-offset-1 pull-right">
                         <div class="contact_us">
                             <h4>Contact Us</h4>
-                            <a href="">info@junky.com</a>
+                            <a href="">info@junkie.com</a>
 
                             <address>
-                                Jalan Awan Hijau, Taman OUG<br />
-                                58200 Kuala Lumpur <br />
-                                Malaysia <br />
+                                Obalende<br />
+                                101232 Lagos Island <br />
+                                Nigeria <br />
                             </address>
                         </div>
                     </div>
@@ -387,7 +387,7 @@
                                     lat: result[i].location.lat(),
                                     lng: result[i].location.lng(),
                                     infoWindow: {
-                                        content: '<address class="tooltip_address"><b>Junky Burger</b><br />Jalan Awan Hijau, Taman OUG<br />58200 Kuala Lumpur <br />Malaysia <br /></address>'
+                                        content: '<address class="tooltip_address"><b>Junkie Food</b><br />Obalende, Lagos Island<br />101232 Lagos<br />Malaysia <br /></address>'
                                     }
                                 });
                             }
