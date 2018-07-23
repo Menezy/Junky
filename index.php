@@ -279,11 +279,11 @@
         <!-- Lock -->
         <section id="lock">
             <h2>SERVING MORE THAN JUST BURGERS SINCE 1998</h2>
-            <p>Check out our opening hours and location address below.</p>
+         
         </section>
 
         <!-- Map -->
-        <div id="ourmaps"></div>
+        <!--<div id="ourmaps"></div> -->
 
         <!-- Footer -->
         <footer>
