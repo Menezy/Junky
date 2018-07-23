@@ -54,7 +54,7 @@
 
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#"><span class="logo">Junky Burger</span></a>
+                    <a class="navbar-brand" href="#"><span class="logo" style="font-weight:bold;color:white;">Junky Burger</span></a>
                 </div>
                 <!-- End Header Navigation -->
             </div>   
