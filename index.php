@@ -2,7 +2,7 @@
 <html lang="en"> 
     <head>
         <meta charset="utf-8">
-        <title>Junky food landing page</title>
+        <title>Junky burgers landing page</title>
         <!-- Mobile Specific Meta -->
         <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
         <!-- Stylesheets -->
@@ -54,7 +54,7 @@
 
                 <!-- Start Header Navigation -->
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="#"><img src="images/logo.png" class="logo" alt=""></a>
+                    <a class="navbar-brand" href="#">Junky food <|--<img src="images/logo.png" class="logo" alt="">--></a>
                 </div>
                 <!-- End Header Navigation -->
             </div>   
@@ -278,7 +278,7 @@
 
         <!-- Lock -->
         <section id="lock">
-            <h2>SERVING MORE THAN JUST BURGERS SINCE 1998</h2>
+            <h2>SERVING MORE THAN JUST BURGERS</h2>
          
         </section>
 
