@@ -387,7 +387,7 @@
                                     lat: result[i].location.lat(),
                                     lng: result[i].location.lng(),
                                     infoWindow: {
-                                        content: '<address class="tooltip_address"><b>Junkie Food</b><br />Obalende, Lagos Island<br />101232 Lagos<br />Malaysia <br /></address>'
+                                        content: '<address class="tooltip_address"><b>Junkie Food</b><br />Obalende, Lagos Island<br />101232 Lagos<br /></address>'
                                     }
                                 });
                             }
